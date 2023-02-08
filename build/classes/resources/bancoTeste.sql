@@ -1,0 +1,3 @@
+Testando
+
+INSERT INTO user (), (), ();
